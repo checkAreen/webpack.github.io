@@ -1,8 +1,8 @@
 const apiConfig = {
     urlGeo: 'http://api.positionstack.com/v1/forward',
-    apiGeo: 'e017575ab7892b908c93324796c8dfee',
+    apiGeo: 'YOUR_API_KEY_TO_RECEIVE_COORDINATES',
     urlWeather: 'http://api.weatherapi.com/v1',
-    apiWeather: '69dbf78482f040c4ad9104405231403'
+    apiWeather: 'YOUR_API_KEY_TO_RECEIVE_WEATHER_STATE_AND_FORECASTS'
 };
 
 export default apiConfig;
